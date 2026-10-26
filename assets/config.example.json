@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "topics": [],
+  "purpose": "",
+  "sources": [],
+  "filters": {
+    "languages": [],
+    "lookback_days": 7,
+    "max_items": 10,
+    "exclude": []
+  },
+  "content": {
+    "images": true,
+    "summary": true,
+    "full_text": false
+  },
+  "destinations": {
+    "obsidian": {
+      "enabled": false,
+      "vault": ""
+    },
+    "eagle": {
+      "enabled": false,
+      "library": ""
+    },
+    "feishu": {
+      "enabled": false,
+      "target": "",
+      "scope": "summary-only"
+    }
+  },
+  "schedule": {
+    "enabled": false,
+    "frequency": "manual",
+    "timezone": ""
+  }
+}

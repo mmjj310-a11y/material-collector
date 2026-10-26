@@ -1,0 +1,4 @@
+interface:
+  display_name: "自生长素材知识库"
+  short_description: "通过提问配置来源与保存位置，持续收集、去重和接手素材库"
+  default_prompt: "使用 $material-collector 帮我建立素材知识库，先确定主题、网站、保存位置和是否同步飞书。"
